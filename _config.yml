@@ -345,7 +345,7 @@ post_edit:
 # ---------------------------------------------------------------
 
 # Reduce padding / margin indents on devices with narrow width.
-mobile_layout_economy: false
+mobile_layout_economy: true
 
 # Android Chrome header panel color ($brand-bg / $headband-bg => $black-deep).
 android_chrome_color: "#222"
@@ -479,7 +479,7 @@ pangu: false
 # Disqus
 disqus:
   enable: true
-  shortname:
+  shortname: yangjie
   count: true
   lazyload: false
 
